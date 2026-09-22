@@ -3,7 +3,7 @@
 import ast
 import operator
 
-from config import COURSE_FEES
+from day1_lab.config import COURSE_FEES
 
 
 def get_course_fee(course_code: str) -> str:

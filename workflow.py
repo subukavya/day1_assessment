@@ -3,7 +3,7 @@ Fixed if/else rules, no LLM.
 """
 
 import re
-from config import COURSE_FEES, QUESTIONS
+from day1_lab.config import COURSE_FEES, QUESTIONS
 
 
 def workflow(question):

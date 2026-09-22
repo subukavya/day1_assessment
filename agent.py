@@ -2,8 +2,8 @@
 
 import json
 
-from config import client, MODEL, QUESTIONS, banner
-from tools import TOOLS, TOOL_FUNCTIONS
+from day1_lab.config import client, MODEL, QUESTIONS, banner
+from day1_lab.tools import TOOLS, TOOL_FUNCTIONS
 
 
 SYSTEM_PROMPT = (

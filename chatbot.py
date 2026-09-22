@@ -2,7 +2,7 @@
 No tools and no access to the college fee data.
 """
 
-from config import client, MODEL, QUESTIONS, banner
+from day1_lab.config import client, MODEL, QUESTIONS, banner
 
 
 def chatbot(question):

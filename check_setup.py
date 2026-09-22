@@ -1,7 +1,7 @@
 """Step 1: run this first. It checks the environment and model connection."""
 
 import sys
-from config import client, MODEL, PROVIDER
+from day1_lab.config import client, MODEL, PROVIDER
 
 print("Python version :", sys.version.split()[0])
 print("Provider       :", PROVIDER)
